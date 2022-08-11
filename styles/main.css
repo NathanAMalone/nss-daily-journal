@@ -1,0 +1,23 @@
+.fieldset1 {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+}
+
+.fieldset2 {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+}
+
+.fieldset3 {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+}
+
+.fieldset4 {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+}
